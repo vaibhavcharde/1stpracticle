@@ -1,0 +1,69 @@
+<html>
+    <table border="8">                                                 
+    <th>table heading</th>
+    <body bgcolor="orange">
+
+    </body>
+
+    <tr>
+    <td>10:30 to 11:30</td>
+    <td> 11:30 to 12:30</td>
+    <td>12:30 to 1:30</td>
+    <td> 1:30 to 2:30</td>
+    <td>2:30 to 3:30</td>
+    <td> 3:30 to 4:30</td>
+    <td> 4:30 to 5:00</td>
+    <td> 5:00 to 5:30</td>
+    </tr>
+
+    <tr>
+        <td>1st leacture</td>
+        <td> 2nd leacture</td>
+        <td> break</td>
+        <td> 3rd leacture</td>
+        <td>4th leacture</td>
+        <td> 5th leacture</td>
+        <td> break</td>
+        <td> 6th leactre</td>
+        </tr>
+
+
+
+        <tr>
+            <td>engineering maths </td>
+            <td> modern physics</td>
+            <td> break</td>
+            <td> engineering chemistry</td>
+            <td>cwl</td>
+            <td> engineering graphics</td>
+            <td> break</td>
+            <td> wdl lab</td>
+            </tr>
+
+
+            <tr>
+                <td>wdl lab</td>
+                <td> modern physics</td>
+                <td> break</td>
+                <td> engineering chemistry</td>
+                <td>cwl</td>
+                <td> engineering graphics</td>
+                <td> break</td>
+                <td> engineering chemistry</td>
+                </tr>
+
+
+                <tr>
+                    <td>wdl lab</td>
+                    <td> modern physics</td>
+                    <td> break</td>
+                    <td> engineering chemistry</td>
+                    <td>cwl</td>
+                    <td> engineering graphics</td>
+                    <td> break</td>
+                    <td> engineering chemistry</td>
+                    </tr>
+                    <body>
+                        
+                    </body>
+                    </html>
